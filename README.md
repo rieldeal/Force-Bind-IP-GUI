@@ -7,8 +7,11 @@ A simple GUI to launch applications using the existing program ForceBindIP (not 
 Requires:
 
 ForceBindIP (https://r1ch.net/projects/forcebindip)
+
 Python 3.6.2 (non compiled version only)
+
 appJar http://appjar.info/ (non compiled version only)
+
 
 This is a simple GUI to launch files using the ForceBindIP64.exe file written by Richard Stanway.
 
